@@ -27,7 +27,7 @@
                             <con2:xpathText>.</con2:xpathText>
                         </con1:location>
                         <con1:expr>
-                            <con2:xqueryText>'hello world'</con2:xqueryText>
+                            <con2:xqueryText>'hello world 123'</con2:xqueryText>
                         </con1:expr>
                     </con1:replace>
                 </con:actions>

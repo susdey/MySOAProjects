@@ -10,8 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>sam</module>
-        <module>MyFirstSBProject</module>
+        <module>System</module>
     </modules>
-    <profiles/>
+
 </project>
